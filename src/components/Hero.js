@@ -8,7 +8,7 @@ const Hero = () => {
       </div>
       <div className="hero-content">
           <div className='hero-text'>
-            <h1>Hello, I'm Brian K Kasonde</h1>
+            <h1>Hey, Brian Kasonde Here</h1>
             <p>
                 I'm a Software Engineer specialized in Full Stack Web Development, Mobile App Development and UI/UX Design. I'm passionate
                 about creating user-friendly and visually appealing websites and mobile applications. I have a strong background in 

@@ -13,6 +13,7 @@ const Header = () => {
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#hire-me">Hire Me</a></li>
             </ul>
+            <a href="#" className="primary-button menu-button">menu</a>
         </div>
     </div>
   );
