@@ -54,12 +54,12 @@ h1,h2,h3,h4,h5,h6{
 
 
 
-
+/*
 @media (prefers-reduced-motion: no-preference) {
   .logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+}*/
 
 
 /*STYLING FOR THE HEADER SECTION*/
