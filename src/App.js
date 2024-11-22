@@ -6,7 +6,6 @@ import Projects from './components/Projects';
 import HireMe from './components/HireMe';
 import Footer from './components/Footer';
 
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
